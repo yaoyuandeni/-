@@ -1,5 +1,0 @@
-ÔÆÇ¨ÒÆ
-
-jenkins+gitlab
-
-docker
